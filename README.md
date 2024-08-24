@@ -25,11 +25,9 @@ This project makes use of:
 
 You can get started with this locally by using the Supabase CLI. Make sure you have the CLI installed before continuing. You can find installation instructions [here](https://supabase.com/docs/guides/cli).
 
-Create a copy of this project using the commands below:
+Clone this project and then install it's dependencies
 
 ```bash
-npx degit silentworks/supabase-by-example/remix project-name
-cd project-name
 npm install # or pnpm install or yarn install
 ```
 
